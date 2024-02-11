@@ -1,4 +1,4 @@
-WHISCLOUD- Domain Reseller V2.3
+WHISCLOUD- Domain Reseller V1.0
 Visit - https://github.com/webersmitra/domain-reseller-whmcs
 Know More - https://whiscloud.com/domain-reseller.php
 Contact Us - info@whiscloud.com
